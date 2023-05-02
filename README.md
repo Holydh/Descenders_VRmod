@@ -29,6 +29,6 @@ To swap back to non VR version, swap the globalgamemanagers with the one you pre
 
 
 ## Credits for the Flatscreen2VR Discord and all it's people who worked on some nice guides for getting into VR injection.
-
+https://discord.gg/5c49tFYKtF
 
 Enjoy !
