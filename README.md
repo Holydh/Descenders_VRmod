@@ -1,6 +1,6 @@
 # Descenders VR mod
 
-Here's a VR mod I worked on for Descenders.
+Here's a VR mod I worked on for Descenders using Bepinex and HarmonyX.
 
 Things I patched :
 - All the original camera views are there but tweaked to match well with VR. X and Z axis are stuck to horizon for every views except first person, no more camera shake, no more fov changes.
