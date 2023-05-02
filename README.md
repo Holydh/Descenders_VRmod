@@ -5,7 +5,7 @@ Comfortable and fun to play from start to finish even for motion sickness sensib
 And awesome for the thrill seekers in first person view !
 
 Things I patched :
-- All the original camera views are there but tweaked to match well with VR. X and Z axis are stuck to horizon for every views except first person, no more camera shake, no more fov changes. Same for the "cinematic" cameras at the begining of the levels in Carrier mod. No more vomit party yay : )
+- All the original camera views are there but tweaked to match well with VR. X and Z axis are stuck to horizon for every views except first person, no more camera shake, no more fov changes. Same for the "cinematic" cameras at the begining of the levels in Carrier mod. No more vomit party yay
 - The first person view is coded from scratch with the same improvements I mentionned for the other views plus some personal tweaks to be more reactive than the original one but also more comfortable.
 - UI modified to appear in worldspace, it is completely usable (with a gamepad or keyboard, no mouse) in every game mods.
 - Every mod maps (at least those I tried) works well. Beware though some are ressources hungry and every custom UI of these maps won't render in VR but will appear on the VR mirror view on desktop. Some will freeze the VR view a bit like in the Igloo bike park map but just pressing A to skip the popup will get it back to normal.
