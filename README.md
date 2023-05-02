@@ -4,6 +4,8 @@ Here's a VR mod I worked on for Descenders using Bepinex and HarmonyX.
 Comfortable and fun to play from start to finish even for motion sickness sensible person with the 3rd person views.
 And awesome for the thrill seekers in first person view !
 
+Some footage : https://youtu.be/NcM7NJ8S4C4
+
 Things I patched :
 - All the original camera views are there but tweaked to match well with VR. X and Z axis are stuck to horizon for every views except first person, no more camera shake, no more fov changes. Same for the "cinematic" cameras at the begining of the levels in Carrier mod.
 - The first person view is coded from scratch with the same improvements I mentionned for the other views plus some personal tweaks to be more reactive than the original one but also more comfortable.
