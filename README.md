@@ -24,7 +24,7 @@ Feel free to open issues on this github page if you have bugs. I can't say if I'
 - Download and extract Bepinex v5.4.21 in the game's root folder "Descenders" (in steam, right clic on the game / manage / browse local files).
 Bepinex v5.4.24 DL link : https://github.com/BepInEx/BepInEx/releases/download/v5.4.21/BepInEx_x64_5.4.21.0.zip
 - Launch the game once for Bepinex initialization.
-- Disable Depth of field and Bloom in the game graphics settings (to fix blurry vision and broken sun rays).
+- Disable Depth of field and Bloom in the game graphics settings (to fix blurry vision and broken sun rays) then quit the game.
 - Download the VR mod and extract it in the game's root folder like for Bepinex, click yes when prompted to overwrite a file.
 VR mod DL link : https://github.com/Holydh/Descenders_VRmod/releases/download/v1.0.1/DescendersVRmod_v1.0.1.zip
 
