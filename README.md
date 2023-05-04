@@ -30,6 +30,8 @@ That's it. Now connect your HMD and launch the game. If the VR view doesn't laun
 
 ### If you change resolution during a session, restart the game so it also applies it in VR.
 
+You can also now disable Post Processing entirely for framerate gain or if you want to experiment with Reshade by turning the option to false in the config file : Descenders\BepInEx\config\DescendersVRmod.cfg
+
 To swap back to non VR version, swap the globalgamemanagers with the one you previously backuped and rename the file "DescendersVRmod.dll" to "DescendersVRmod.dll.old" in "BepInEx\plugins".
 
 
