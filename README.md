@@ -8,7 +8,8 @@ And awesome for the thrill seekers in first person view !
 
 Some footage : https://youtu.be/NcM7NJ8S4C4
 
-Things I patched :
+## Features
+
 - All the original camera views are there but tweaked to match well with VR. X and Z axis are stuck to horizon for every views except first person, no more camera shake, no more fov changes. Same for the "cinematic" cameras at the begining of the levels in Carrier mod.
 - The first person view has the same improvements I mentioned for the other views plus a few tweaks to be more reactive than the original one but also more comfortable.
 - UI modified to appear in worldspace, it is completely usable (with a gamepad or keyboard, no mouse) in every game mods.
