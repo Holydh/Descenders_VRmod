@@ -24,7 +24,7 @@ Feel free to open issues on this github page if you have bugs. I can't say if I'
 
 ### If you want to easily switch between VR and non VR, make a backup or simply rename the "globalgamemanagers" file before installing this mod. This file is in "Descenders\Descenders_Data\", you can simply rename it into "globalgamemanagers.old" for example.
 
-- Disable Depth of field and Bloom in the game graphics settings (to fix blurry vision and broken sun rays) then quit the game.
+- Disable Depth of field, Bloom and Vsync in the game graphics settings then quit the game.
 - Download the VR mod and extract it in the game's root folder "Descenders" (in steam, right clic on the game / manage / browse local files), click yes when prompted to overwrite a file.
 
 VR mod DL link : https://github.com/Holydh/Descenders_VRmod/releases/download/v1.0.2/DescendersVRmod_v1.0.2.zip
