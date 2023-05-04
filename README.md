@@ -23,11 +23,14 @@ Feel free to open issues on this github page if you have bugs. I can't say if I'
 
 - Download and extract Bepinex v5.4.21 in the game's root folder "Descenders" (in steam, right clic on the game / manage / browse local files).
 Bepinex v5.4.24 DL link : https://github.com/BepInEx/BepInEx/releases/download/v5.4.21/BepInEx_x64_5.4.21.0.zip
-- Launch the game once for Bepinex initialization then quit it.
+- Launch the game once for Bepinex initialization.
+- Disable Depth of field and Bloom in the game graphics settings (to fix blurry vision and broken sun rays).
 - Download the VR mod and extract it in the game's root folder like for Bepinex, click yes when prompted to overwrite a file.
-VR mod DL link : https://github.com/Holydh/Descenders_VRmod/releases/download/Release/DescendersVRmod_v1.0.zip
+VR mod DL link : https://github.com/Holydh/Descenders_VRmod/releases/download/v1.0.1/DescendersVRmod_v1.0.1.zip
 
 That's it. Now connect your HMD and launch the game. If the VR view doesn't launch, add "-vrmode Oculus" or "-vrmode OpenVR" in the steam launch settings or on a shortcut of the game exe.
+
+### If you change resolution during a session, restart the game so it also applies it in VR.
 
 To swap back to non VR version, swap the globalgamemanagers with the one you previously backuped and rename the file "DescendersVRmod.dll" to "DescendersVRmod.dll.old" in "BepInEx\plugins".
 
