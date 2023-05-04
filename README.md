@@ -2,7 +2,7 @@
 
 ## Make sure to use the latest version :
 ## v1.0.2 - Fixes wrong steamVR hmds position
-## v1.0.1 - Performance and Post processing fixes
+### v1.0.1 - Performance and Post processing fixes
 
 Here's a VR mod I worked on for Descenders using Bepinex and HarmonyX (for gamepad use, no motion controls).
 Comfortable and fun to play from start to finish even for motion sickness sensible person with the 3rd person views.
