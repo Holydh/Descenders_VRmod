@@ -1,6 +1,6 @@
 # Descenders VR mod
 
-## Make sure to use the latest version for best performance and fixes
+## Make sure to use the latest version for best performance
 
 Here's a VR mod I worked on for Descenders using Bepinex and HarmonyX (for gamepad use, no motion controls).
 Comfortable and fun to play from start to finish even for motion sickness sensible person with the 3rd person views.
