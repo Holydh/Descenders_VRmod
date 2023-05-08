@@ -1,5 +1,6 @@
 # Descenders VR mod
 
+## Compatible with Steam version only. Gamepass version has compatibility issues with mods in general.
 ## Make sure to use the latest version for best performance
 
 Here's a VR mod I worked on for Descenders using Bepinex and HarmonyX (for gamepad use, no motion controls).
